@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/PZsLdQgf/chrome-c-EWWhm-W2-Vg.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/Muhiuddin2005/Muhiuddin2005/raw/main/chrome_cEWWhmW2Vg.jpg" alt="Banner" width="100%" />
 </p>
+
 
 
 
