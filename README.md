@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md.Muhiuddin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
