@@ -118,9 +118,6 @@
   <a href="https://www.linkedin.com/in/md-muhiuddin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-  <a href="mailto:muhiuddin.bd.2005@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="Gmail" height="35" width="35" />
-  </a>
   <a href="https://wa.me/8801932517973" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="WhatsApp" height="35" width="35" />
   </a>
