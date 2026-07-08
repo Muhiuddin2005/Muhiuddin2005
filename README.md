@@ -93,15 +93,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhiuddin2005&show_icons=true&locale=en&theme=visual_studio" alt="muhiuddin2005's stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=muhiuddin2005&theme=visual_studio" alt="muhiuddin2005's streak" height="170" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
